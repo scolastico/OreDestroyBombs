@@ -9,7 +9,15 @@
 OreDestroyBombs is a factorio mod. With this mod you can simply blow away resource nodes that bother you.
 
 ## Usage
-*[to be filled in later]*
+To use the mod just research the technology and craft an "Ore Destroy Explosives" and throw it at an ore that bothers you.
+
+![normal example screenshot](https://github.com/scolastico/OreDestroyBombs/raw/main/screenshots/normal.gif)
+
+In the mod settings it is also possible to set that all ores should be destroyed at the same time, how many ores should be destroyed at the same time, how quickly they should be destroyed or whether the explosion effect should be displayed.
+
+![settings screenshot](https://github.com/scolastico/OreDestroyBombs/raw/main/screenshots/settings.png)
+
+![all at once screenshot](https://github.com/scolastico/OreDestroyBombs/raw/main/screenshots/all-at-once.gif)
 
 ## Support
 If an error occurs or you have a suggestion for improvement, you can create an issue here on github. Please stick to the issue templates!
