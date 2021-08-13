@@ -3,7 +3,7 @@
 [![badge](https://img.shields.io/github/languages/code-size/scolastico/OreDestroyBombs)](#)
 [![badge](https://img.shields.io/github/issues/scolastico/OreDestroyBombs)](https://github.com/scolastico/OreDestroyBombs/issues)
 [![Version](https://img.shields.io/github/v/tag/scolastico/OreDestroyBombs?label=version)](https://github.com/scolastico/OreDestroyBombs/releases)
-[![Factorio Mod](https://img.shields.io/badge/-Factorio%20Mod-green)](#)
+[![Factorio Mod](https://img.shields.io/badge/-Factorio%20Mod-green)](https://mods.factorio.com/mod/OreDestroyBombs)
 
 ## Description
 OreDestroyBombs is a factorio mod. With this mod you can simply blow away resource nodes that bother you.
