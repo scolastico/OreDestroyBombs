@@ -1,0 +1,5 @@
+require("__OreDestroyBombs__.prototype.ammo")
+require("__OreDestroyBombs__.prototype.particle")
+require("__OreDestroyBombs__.prototype.item")
+require("__OreDestroyBombs__.prototype.recipe")
+require("__OreDestroyBombs__.prototype.technology")
